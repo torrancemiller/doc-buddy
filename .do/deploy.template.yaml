@@ -48,7 +48,7 @@ spec:
           value: "STORAGE_SECRET"
       github:
         branch: main
-        repo: squarecat/doc-buddy
+        repo: torrancemiller/doc-buddy
       http_port: 8080
       instance_count: 1
       instance_size_slug: basic-xxs
